@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(84, 161, 197);
+}
+.quotes{
+    margin-top: 14rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15%;
+    color: white;
+    font-weight: bolder;
+    font-size: 35px;
+    text-align: center;
+}
+.content{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.myBtn{
+    background-color: rgb(26, 85, 169);
+    padding: 2%;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    width: 60%;
+}
+.author{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+   position: relative;
+   top: -7rem;
+   left: 15rem;
+  
+}
+.footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0rem;
+    background-color: rgb(100, 141, 177);
+    width: 100%;
+    padding: 2%;
+    left: 0;
+    color: rgb(255, 255, 255);
+    
+    
+
+    
+   
+}
